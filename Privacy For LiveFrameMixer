@@ -1,0 +1,31 @@
+PRIVACY POLICY 
+
+              Access to Device Services:
+                  Text("Our photo editor application has access to the device's camera, photo library, and file system. Please note that none of the images are sent anywhere automatically. Users have the ability to edit and manipulate their images within the application, and any user-generated data (such as edited images) is stored locally on the device and gets deleted when the application is closed, unless the user decides to share it from the application.
+
+                    Payment Processing:
+                   In the initial version of our app, payments are processed through the interaction of AppHud and StoreKit. The account owner responsible for processing transactions and managing payments is boboroboten@yandex.ru. Currently, the creator of the app is an individual. All necessary certificates and permissions for paid apps
+
+                       For repeated access to paid features, a pair of Keychain keys is used to store transaction receipts associated with the product ID in encrypted form. Each time a user attempts to access paid features, the app checks the Keychain for a valid receipt associated with the product ID. If a valid receipt is found, the functionality continues to work; otherwise, the user will be prompted to choose one of four subscription tiers.
+
+                       We offer a weekly subscription for $3.99, a monthly subscription for $9.99, a semi-annual subscription for $19.99, and an annual subscription for $29.99. Since the app does not use personal data and payments are processed in isolation using StoreKit technologies, transaction data is securely stored locally, but on the user's device, and is only retrieved to avoid duplicate payments.
+                   
+
+                  Third-Party Data Sharing and Data Security:
+                  Our application does not share data with third parties. Users have the option to save and share images from the application; however, data is not transferred to third parties without the user's knowledge. The application utilizes Firebase Analytics to collect user experience data and identify popular features to enhance the development of future versions.
+                    
+
+                  Contact information:
+                  For questions, complaints, suggestions and noticed errors: You can always contact our support service using the following contact information:
+            
+                  Contact information for the application owner:
+                       boboroboten@yandex.ru
+               
+                    Telegram
+                      @Boriseeto
+
+                    Contact information for the lead developer:
+                     borisbeliaev0@gmail.com
+
+                     Telegram:
+                     @iOSExpander
