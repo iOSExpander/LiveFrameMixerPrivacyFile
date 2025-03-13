@@ -1,7 +1,7 @@
 PRIVACY POLICY 
 
               Access to Device Services:
-                  Text("Our photo editor application has access to the device's camera, photo library, and file system. Please note that none of the images are sent anywhere automatically. Users have the ability to edit and manipulate their images within the application, and any user-generated data (such as edited images) is stored locally on the device and gets deleted when the application is closed, unless the user decides to share it from the application.
+                  Our photo editor application has access to the device's camera, photo library, and file system. Please note that none of the images are sent anywhere automatically. Users have the ability to edit and manipulate their images within the application, and any user-generated data (such as edited images) is stored locally on the device and gets deleted when the application is closed, unless the user decides to share it from the application.
 
                     Payment Processing:
                    In the initial version of our app, payments are processed through the interaction of AppHud and StoreKit. The account owner responsible for processing transactions and managing payments is boboroboten@yandex.ru. Currently, the creator of the app is an individual. All necessary certificates and permissions for paid apps
@@ -13,6 +13,23 @@ PRIVACY POLICY
 
                   Third-Party Data Sharing and Data Security:
                   Our application does not share data with third parties. Users have the option to save and share images from the application; however, data is not transferred to third parties without the user's knowledge. The application utilizes Firebase Analytics to collect user experience data and identify popular features to enhance the development of future versions.
+
+                   Description of the Service:
+                  Our application functions as a photo editor with a range of features including brightness settings, saturation adjustments, color filters, GIF creation from original or filtered photos, collage creation with various layouts and automatic size calculation, background addition to collages, manual adjustments in the Collage section, QR code generation for links, animation creation with subsequent video saving using screen recording technology with permission requests, options for rounding photos, adding text overlays with a large selection of fonts.
+                  
+
+                  Usage Guidelines:
+                  While there are no strict prohibitions, please be aware that attempting to animate images using the screen recording function on an iPhone while granting screen recording permission may result in an error if the native screen recording function is concurrently active in another application. Additionally, attempting to make or restore purchases without an internet connection may lead to payment failure or product download issues. Please note that the application is intended solely for photo editing purposes; it does not support video or audio editing functionalities.
+                 
+
+                  Rights and Responsibilities:
+                 Users have the right to utilize all features of the application for free, except for the QRCode, created GIFs, adding backgrounds to collages, saving GIFs, and the miniTrip section which are paid features. Any other functions not listed here are available for free. By purchasing a subscription, all features of the application become accessible based on the selected subscription period. The subscription is valid for one device only.
+
+                  Disclaimer of Liability:
+                  The application serves as a photo editor, and in the event that a user utilizes it to edit someone else's photo which may be deemed inappropriate by another user, the application hereby disclaims any responsibility, as the use of the application is the personal choice of each user.
+
+                  Change of Terms:
+                  The administration of the application reserves the right to modify prices for premium products. However, users with existing subscriptions will continue to be serviced at the original price. If prices do change and a user does not have a subscription, the charges will be based on the new pricing. The application is localized into English, German, French, Spanish, Chinese, Russian, Arabic, Italian, More languages ​will be added over time
                     
 
                   Contact information:
@@ -24,8 +41,12 @@ PRIVACY POLICY
                     Telegram
                       @Boriseeto
 
+                     Phone numbers: +79219760006, +995568922771.
+
                     Contact information for the lead developer:
                      borisbeliaev0@gmail.com
 
                      Telegram:
                      @iOSExpander
+
+                    Phone number: +79817003854.
